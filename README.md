@@ -1,8 +1,6 @@
-# 自动生成服务端代码
+# java代码生成器
 ### 你可以
-1.  watch项目，因为还要完善
-2.  fork项目，有bug和好建议，然后pull request给我
-3.  有问题，email我：firebata@gmail.com
+1.  自行fork，修改称自己需要的模板。
 
 ### 工具的使用范围
 1.  该工具只生成springmvc+spring+mybatis的服务端代码
@@ -17,8 +15,6 @@
 
 ### 最后的补充
 1.  IDE建议用IntelliJ IDEA
-2.  微信
-![image](http://images2015.cnblogs.com/blog/278133/201607/278133-20160705104559655-1857735161.jpg)
 
 ### 代码举例
 #### controller
